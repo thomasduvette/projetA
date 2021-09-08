@@ -12,3 +12,8 @@ data tutu;
     place = 5;
     forme = 3;
 run;
+
+data tete;
+	place = 4;
+	forme = 1;
+run;
