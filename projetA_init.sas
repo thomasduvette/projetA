@@ -17,3 +17,5 @@ data tete;
 	place = 4;
 	forme = 1;
 run;
+
+/*Fin de l'initialisation*/
