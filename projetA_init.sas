@@ -16,7 +16,7 @@ run;
 
 data tete;
 	place = 4;
-	forme = 1;
+	forme = 2;
 run;
 
 /*Fin de l'initialisation*/
