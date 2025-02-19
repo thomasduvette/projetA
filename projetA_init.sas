@@ -1,6 +1,6 @@
 /*Commentaire*/
 data toto;
-    place = 10;
+    place = 11;
     forme = 3;
 run;
 
